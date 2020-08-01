@@ -1,0 +1,19 @@
+.board button{
+  width: 100px;
+  height: 100px;
+  background-color:grey;
+  margin:1px;
+  border:4px solid black;
+  border-radius: 50%;
+}
+h1,h2,h3
+{
+  font-family: 'Fondamento', cursive;
+  color:yellow;
+
+}
+body
+{
+  background-color:#0000FF ;
+
+}
